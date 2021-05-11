@@ -1,16 +1,13 @@
-### Hi there 👋
+### Quirinux, por Charlie Martínez ® 👋
 
-<!--
-**quirinux-so/quirinux-so** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quirinux GNU/Linux es una distribución basada en Debian orientada a la animación, el diseño gráfico y la fotografía profesional.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en la versión 2.0
+- 🌱 Creando un repositorio deb propio compatible con APT.
+- 👯 Incorporando nuevas herramientas solicitadas por la comunidad.
+- 🤔 Terminando de definir aspectos visuales.
+- 💬 Grupo de Telegram: t.me/quirinux_so
+- 📫 ¿dudas? ¿sugerencias? ¿prensa? cmartinez@quirinux.org
+- 😄 https://www.quirinux.org
+- ⚡ Mi web personal: www.charliemartinez.com.ar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
