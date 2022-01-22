@@ -9,5 +9,5 @@ Quirinux GNU/Linux es una distribución basada en Debian orientada a la animaci�
 - 💬 Grupo de Telegram: t.me/quirinux_so
 - 📫 ¿dudas? ¿sugerencias? ¿prensa? cmartinez@quirinux.org
 - 😄 https://www.quirinux.org
-- ⚡ Mi web personal: www.charliemartinez.com.ar
+- ⚡ Mi web personal: www.charliemartinez.com.ar (en construcción...)
 
